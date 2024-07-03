@@ -1,0 +1,2 @@
+../Src/KPD_program.c:48:6:HKPD_voidInit	8	static
+../Src/KPD_program.c:80:11:HKPD_u8GetKeyState	24	static

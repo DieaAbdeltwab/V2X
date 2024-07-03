@@ -1,0 +1,11 @@
+../Src/GUI_program.c:44:6:SGUI_voidInit	8	static
+../Src/GUI_program.c:48:6:SGUI_voidMainFrame	104	static
+../Src/GUI_program.c:65:6:SGUI_voidUpdateSpeed	32	static
+../Src/GUI_program.c:86:6:SGUI_voidUpdateDirection	200	static
+../Src/GUI_program.c:117:6:SGUI_voidUpdateBattaryVolt	64	static
+../Src/GUI_program.c:153:6:SGUI_voidV2IStopSign	64	static
+../Src/GUI_program.c:159:6:SGUI_voidV2ISpeedSign	104	static
+../Src/GUI_program.c:175:6:SGUI_voidV2ITrafficSign	104	static
+../Src/GUI_program.c:206:6:SGUI_voidV2PPedestrian	64	static
+../Src/GUI_program.c:218:6:SGUI_voidV2GBattaryLimit	104	static
+../Src/GUI_program.c:258:6:SGUI_voidV2GStartEnd	72	static

@@ -1,0 +1,3 @@
+../Src/7SEG_program.c:64:6:HSevenSeg_voidInit	8	static
+../Src/7SEG_program.c:103:9:HSevenSeg_u8DisplayNum1Digit	24	static
+../Src/7SEG_program.c:156:9:HSevenSeg_u8DisplayNum2Digit	24	static

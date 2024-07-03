@@ -1,0 +1,4 @@
+../Src/DAC_program.c:54:8:HDAC_voidInit	8	static
+../Src/DAC_program.c:71:8:HDAC_voidPlay	8	static
+../Src/DAC_program.c:88:13:HDAC_u8GetData	24	static
+../Src/DAC_program.c:105:13:HDAC_voidSetData	8	static

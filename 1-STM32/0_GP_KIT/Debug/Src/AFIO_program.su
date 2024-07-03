@@ -1,0 +1,2 @@
+../Src/AFIO_program.c:46:11:MAFIO_u8EXTIPortRemap	24	static
+../Src/AFIO_program.c:76:11:MAFIO_u8TIM3PortRemap	24	static

@@ -1,0 +1,6 @@
+../Src/STP_program.c:47:6:HSTP_voidInit	8	static
+../Src/STP_program.c:76:11:HSTP_u8SetIC1Byte	24	static
+../Src/STP_program.c:112:11:HSTP_u8SetIC2Byte	24	static
+../Src/STP_program.c:149:11:HSTP_u8SetICValue	24	static
+../Src/STP_program.c:186:11:HSTP_u8SetICSHalfWord	24	static
+../Src/STP_program.c:224:6:STP_u8LedMatrix	24	static

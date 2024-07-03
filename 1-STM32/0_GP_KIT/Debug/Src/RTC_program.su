@@ -1,0 +1,10 @@
+../Src/RTC_program.c:51:6:HRTC_u8Init	24	static
+../Src/RTC_program.c:77:6:HRTC_u8GetRtcStatus	16	static
+../Src/RTC_program.c:93:6:HRTC_voidSetCurrentTime	24	static
+../Src/RTC_program.c:134:6:HRTC_voidGetCurrentTime	32	static
+../Src/RTC_program.c:184:6:HRTC_voidSetCurrentDate	16	static
+../Src/RTC_program.c:203:6:HRTC_voidGetCurrentDate	32	static
+../Src/RTC_program.c:231:13:RTC_voidWriteRegister	32	static
+../Src/RTC_program.c:251:16:RTC_voidReadRegister	32	static
+../Src/RTC_program.c:271:16:BinaryToBCD	24	static
+../Src/RTC_program.c:296:16:BCDToBinary	24	static

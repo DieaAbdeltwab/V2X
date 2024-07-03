@@ -1,0 +1,6 @@
+../Src/IR_program.c:62:9:HIR_voidInit	8	static
+../Src/IR_program.c:88:11:HIR_u8ButtonSetCallBack	24	static
+../Src/IR_program.c:105:13:HIR_voidGetFrame	8	static
+../Src/IR_program.c:122:13:HIR_voidTakeAction	16	static
+../Src/IR_program.c:146:16:HIR_u8RightAddress	16	static
+../Src/IR_program.c:171:13:HIR_voidPlay	16	static

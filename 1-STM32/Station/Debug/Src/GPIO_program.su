@@ -1,0 +1,7 @@
+../Src/GPIO_program.c:44:9:MGPIO_u8PinInit	24	static
+../Src/GPIO_program.c:85:9:MGPIO_u8SetPinDirection	24	static
+../Src/GPIO_program.c:114:9:MGPIO_u8SetPortDirection	24	static
+../Src/GPIO_program.c:142:9:MGPIO_u8SetPinValue	24	static
+../Src/GPIO_program.c:186:10:MGPIO_u8GetPinValue	24	static
+../Src/GPIO_program.c:212:9:MGPIO_u8TogPinValue	24	static
+../Src/GPIO_program.c:240:9:MGPIO_u8SetPortValue	24	static

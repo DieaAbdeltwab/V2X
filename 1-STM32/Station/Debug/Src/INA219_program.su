@@ -1,0 +1,10 @@
+../Src/INA219_program.c:41:10:Read16	32	static
+../Src/INA219_program.c:52:6:Write16	32	static
+../Src/INA219_program.c:62:6:INA219_setCalibration	16	static
+../Src/INA219_program.c:67:10:INA219_getConfig	16	static
+../Src/INA219_program.c:73:6:INA219_setConfig	16	static
+../Src/INA219_program.c:77:6:HINA219_voidInit	24	static
+../Src/INA219_program.c:106:10:INA219_ReadBusVoltage	16	static
+../Src/INA219_program.c:113:9:INA219_ReadCurrent_raw	16	static
+../Src/INA219_program.c:119:9:INA219_ReadCurrent	16	static
+../Src/INA219_program.c:126:10:INA219_ReadShuntVolage	16	static

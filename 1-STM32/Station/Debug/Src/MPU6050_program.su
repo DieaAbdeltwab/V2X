@@ -1,0 +1,3 @@
+../Src/MPU6050_program.c:51:6:HMPU6050_voidInit	40	static
+../Src/MPU6050_program.c:108:6:HMPU6050_voidReadAccel	40	static
+../Src/MPU6050_program.c:140:6:HMPU6050_voidReadGyro	40	static

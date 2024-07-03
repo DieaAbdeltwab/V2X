@@ -1,0 +1,7 @@
+../Src/V2G_program.c:54:9:V2G_u8PlugCable	24	static
+../Src/V2G_program.c:78:9:V2G_u8Identification	48	static
+../Src/V2G_program.c:107:9:V2G_u8ChargeParameter	24	static
+../Src/V2G_program.c:139:9:V2G_u8ChargingCost	24	static
+../Src/V2G_program.c:166:6:V2G_voidStartCharging	16	static
+../Src/V2G_program.c:192:6:V2G_voidEndCharging	16	static
+../Src/V2G_program.c:217:6:V2G_voidSendEnergyAmount	24	static

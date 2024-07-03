@@ -1,0 +1,4 @@
+../Src/TIMERS_program.c:56:6:STIMERS_voidDelayMS	24	static,ignoring_inline_asm
+../Src/TIMERS_program.c:75:6:STIMERS_voidDelayUS	24	static,ignoring_inline_asm
+../Src/TIMERS_program.c:97:10:STIMERS_u8GeneratePWM	32	static
+../Src/TIMERS_program.c:132:9:STIMERS_u8SetPeriodicInterval	32	static

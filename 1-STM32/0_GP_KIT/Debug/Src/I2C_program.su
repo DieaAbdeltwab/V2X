@@ -1,0 +1,9 @@
+../Src/I2C_program.c:47:9:MI2C_u8SetConfiguration	32	static
+../Src/I2C_program.c:108:9:MI2C_u8SendSynch	40	static
+../Src/I2C_program.c:162:9:MI2C_u8ReceiveSynch	40	static
+../Src/I2C_program.c:223:9:MI2C_u8DMArequests	24	static
+../Src/I2C_program.c:265:21:MI2C_u8GetFlagStatus	40	static
+../Src/I2C_program.c:343:16:MI2C_u8GenerateStop	24	static
+../Src/I2C_program.c:372:16:MI2C_u8GenerateStart	24	static
+../Src/I2C_program.c:406:16:MI2C_u8SendAddress	24	static
+../Src/I2C_program.c:444:16:MI2C_u8AcknowledgeConfig	24	static

@@ -1,0 +1,9 @@
+../Src/SPI_program.c:46:9:MSPI_u8SetConfiguration	32	static
+../Src/SPI_program.c:122:9:MSPI_u8RXinterruptStatus	24	static
+../Src/SPI_program.c:150:9:MSPI_u8SendReceiveSynch	24	static
+../Src/SPI_program.c:180:10:MSPI_u8ReceiveArraySynch	24	static
+../Src/SPI_program.c:215:11:MSPI_u8TransmitArraySynch	32	static
+../Src/SPI_program.c:252:9:MSPI_u8SendReceiveAsynch	24	static
+../Src/SPI_program.c:270:6:SPI1_IRQHandler	8	static
+../Src/SPI_program.c:277:6:SPI2_IRQHandler	8	static
+../Src/SPI_program.c:284:6:SPI3_IRQHandler	8	static

@@ -1,0 +1,4 @@
+../Src/ULTRASONIC_program.c:72:6:ULTRASONIC_voidConfig	16	static
+../Src/ULTRASONIC_program.c:124:6:ULTRASONIC_voidGetDistance	16	static
+../Src/ULTRASONIC_program.c:139:13:ULTRASONIC_voidTrigger	16	static
+../Src/ULTRASONIC_program.c:170:13:ULTRASONIC_voidEdgeProcessing	8	static

@@ -1,0 +1,9 @@
+../Src/ADC_program.c:29:6:MADC_vInit	4	static
+../Src/ADC_program.c:344:6:MADC_vSelectChannel	16	static
+../Src/ADC_program.c:355:10:MADC_u16ConvertToDigital	16	static
+../Src/ADC_program.c:378:6:MADC_vDisable	4	static
+../Src/ADC_program.c:392:6:MADC_vEnable	4	static
+../Src/ADC_program.c:406:6:MADC_vRegINT_Disable	4	static
+../Src/ADC_program.c:414:6:MADC_vRegINTEnable	4	static
+../Src/ADC_program.c:422:6:MADC_vSetCallBack	16	static
+../Src/ADC_program.c:437:6:ADC_IRQHandler	8	static

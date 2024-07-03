@@ -1,0 +1,7 @@
+../Src/ADC_program.c:35:10:MADC_u8ADCStatus	24	static
+../Src/ADC_program.c:49:10:MADC_u8InterruptEnable	24	static
+../Src/ADC_program.c:64:10:MADC_u8SetRegularSequence	24	static
+../Src/ADC_program.c:88:10:MADC_u8RegularStartConversion	24	static
+../Src/ADC_program.c:102:10:MADC_u8RaedData	24	static
+../Src/ADC_program.c:126:6:ADC1_2_IRQHandler	8	static
+../Src/ADC_program.c:134:6:ADC3_IRQHandler	8	static

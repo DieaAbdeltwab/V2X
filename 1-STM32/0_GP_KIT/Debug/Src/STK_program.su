@@ -1,0 +1,8 @@
+../Src/STK_program.c:49:9:MSTK_u8ClockConfig	24	static
+../Src/STK_program.c:76:8:MSTK_voidStopTimer	4	static
+../Src/STK_program.c:94:11:MSTK_u8BusyWait	24	static
+../Src/STK_program.c:125:11:MSTK_u8SetInterval	32	static
+../Src/STK_program.c:157:8:MSTK_voidStopInterval	4	static
+../Src/STK_program.c:176:11:MSTK_u8GetElapsedTime	24	static
+../Src/STK_program.c:201:11:MSTK_u8GetRemainingTime	24	static
+../Src/STK_program.c:227:6:SysTick_Handler	8	static

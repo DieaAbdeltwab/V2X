@@ -1,0 +1,4 @@
+../Src/CARKIT_program.c:52:6:SCARKIT_voidInit	8	static
+../Src/CARKIT_program.c:72:9:SCARKIT_u8GetVoltageValue	8	static
+../Src/CARKIT_program.c:79:6:SCARKIT_voidCarSpeed	16	static
+../Src/CARKIT_program.c:105:6:SCARKIT_voidCarDirection	16	static
