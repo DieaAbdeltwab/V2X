@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_info_screen"
+    tools:context=".InfoScreen">
+
+    <ImageButton
+        android:id="@+id/back_button"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="top|left"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/back"
+        android:importantForAccessibility="no"
+        android:scaleType="centerInside"
+        android:layout_marginStart="15dp"
+        tools:ignore="MissingConstraints,RtlHardcoded" />
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "930470485101",
+    "firebase_url": "https://firebaasedb-v2x-default-rtdb.firebaseio.com",
+    "project_id": "firebaasedb-v2x",
+    "storage_bucket": "firebaasedb-v2x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930470485101:android:0cf7fffdcefd37b265b364",
+        "android_client_info": {
+          "package_name": "com.example.v2xapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUtoLlPdl1cvO1YfCTAhozgQ-I5YhjeCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
